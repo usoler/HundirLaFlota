@@ -1,0 +1,6 @@
+c:\users\uribarrena\documents\visual studio 2013\Projects\ProyectoZero\ProyectoZero\bin\Debug\ProyectoZero.exe.config
+c:\users\uribarrena\documents\visual studio 2013\Projects\ProyectoZero\ProyectoZero\bin\Debug\ProyectoZero.exe
+c:\users\uribarrena\documents\visual studio 2013\Projects\ProyectoZero\ProyectoZero\bin\Debug\ProyectoZero.pdb
+c:\users\uribarrena\documents\visual studio 2013\Projects\ProyectoZero\ProyectoZero\obj\Debug\ProyectoZero.csprojResolveAssemblyReference.cache
+c:\users\uribarrena\documents\visual studio 2013\Projects\ProyectoZero\ProyectoZero\obj\Debug\ProyectoZero.exe
+c:\users\uribarrena\documents\visual studio 2013\Projects\ProyectoZero\ProyectoZero\obj\Debug\ProyectoZero.pdb
